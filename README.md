@@ -1,5 +1,5 @@
 - 🔭 I’m currently working on Argentime Frontend
-- 🌱 I’m currently learning Nextjs, Styled components
+- 🌱 I’m currently learning Nextjs, Styled components, Strapi
 - 👯 I’m looking to collaborate on Reactjs/Nextjs Projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
