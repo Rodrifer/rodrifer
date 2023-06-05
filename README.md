@@ -1,3 +1,6 @@
+<h1 align="center">Hi 👋, I'm <a href="/" target="blank">
+Rodrigo</a></h1>
+
 - 🔭 I’m currently working on Komica
 - 📫 How to reach me: rodrifer@gmail.com
 
