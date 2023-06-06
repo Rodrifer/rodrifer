@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm <a href="/" target="blank">
 Rodrigo</a></h1>
 
+
+![GitHub followers](https://img.shields.io/github/followers/rodrifer?style=social)
+
 - 🔭 I’m currently working on Komica
 - 🤝 I’m available for remote work
 - 📫 How to reach me: rodrifer@gmail.com
