@@ -4,7 +4,7 @@ Rodrigo</a></h1>
 
 ![GitHub followers](https://img.shields.io/github/followers/rodrifer?style=social)
 
-- 🔭 I’m currently working on personal project: Komica
+- 🔭 I’m currently working on personal project: Ignite TODo List App
 - 🤝 I’m available for remote work
 - 📫 How to reach me: rodrifer@gmail.com
 
